@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.nathan.nicepay_jtanddemon">
+  <queries>
+    <package android:name="net.jt.pos.demon" />
+  </queries>
+</manifest>
